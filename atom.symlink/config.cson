@@ -1,0 +1,23 @@
+'editor': {}
+'core':
+  'themes': [
+    'solarized-dark-ui'
+    'solarized-dark-syntax'
+  ]
+  'ignoredNames': [
+      '.bundle'
+      '.git'
+      'log'
+      'repositories'
+      'tmp'
+      'vendor'
+    ]
+  'hideGitIgnoredFiles': true
+'exception-reporting':
+  'userId': '3fa918e1-f7dc-7101-e7f3-a7965d9c8d53'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': '792c057e96821d38f730134ef3716400467aa147'
+'tree-view':
+  'hideIgnoredNames': true
