@@ -1,17 +1,17 @@
-# dotfiles
+# Dotfiles
 
 > I attack the structure Wolvie Berzerker style, and knock out the fuckin' pin and bickety bam, the motherfucker is rubble. Hence, no game show.
 
-## credit first
+## Credit first
 
 * [holman](https://github.com/holman/dotfiles), who thanks
 * [ryanb](http://github.com/ryanb/dotfiles)
 * [mathiasbynens](https://github.com/mathiasbynens/dotfiles)
-* [thoughtbot]()https://github.com/thoughtbot/dotfiles
+* [thoughtbot](https://github.com/thoughtbot/dotfiles)
 
 Thanks, all.
 
-## install
+## Install
 
 Run this:
 
@@ -37,7 +37,7 @@ Additional install moves:
 * `script/install` will execute the install scripts in each topic folder
 * `homebrew/cask` will install os x native apps like a boss
 
-## components
+## Components
 
 There's a few special files in the hierarchy.
 
@@ -54,7 +54,7 @@ There's a few special files in the hierarchy.
   but still keep those autoloaded files in your home directory. These get
   symlinked in when you run `script/bootstrap`.
 
-## topical
+## Topical
 
 Everything's built around topic areas. If you're adding a new area to your
 forked dotfiles — say, "Java" — you can simply add a `java` directory and put

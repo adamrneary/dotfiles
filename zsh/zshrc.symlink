@@ -38,3 +38,9 @@ do
 done
 
 unset config_files
+
+export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
+export PATH=/usr/local/share/npm/bin:$PATH
+
+alias mongodb-start="mongod run --config /usr/local/etc/mongod.conf"
+alias redis-start="redis-server /usr/local/etc/redis.conf"

@@ -27,8 +27,6 @@ installcask restclient
 installcask sizeup
 installcask skype
 installcask sonos
-installcask sparrow
-installcask textmate
 installcask transmission
 installcask virtualbox
 installcask vlc
